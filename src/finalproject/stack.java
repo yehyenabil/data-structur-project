@@ -35,7 +35,7 @@ return false ;
      for(int i=0;i<size;i++){
          if(arr[i]==num)
             return true;
-         
+     // my note    
      }
         return false;
  }   
